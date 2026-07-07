@@ -1,0 +1,856 @@
+Folder PATH listing
+Volume serial number is 000000F3 4E48:6182
+C:.
+¦   .gitignore
+¦   estrutura.txt
+¦   package.json
+¦   pnpm-lock.yaml
+¦   pnpm-workspace.yaml
+¦   README.md
+¦   setup.ps1
+¦   tsconfig.base.json
+¦   turbo.json
+¦   
++---.github
+¦   +---workflows
++---apps
+¦   +---cli
+¦       ¦   package.json
+¦       ¦   tsconfig.json
+¦       ¦   
+¦       +---node_modules
+¦       ¦   +---.bin
+¦       ¦   ¦       tsx
+¦       ¦   ¦       tsx.CMD
+¦       ¦   ¦       tsx.ps1
+¦       ¦   ¦       
+¦       ¦   +---tsx
+¦       ¦       ¦   LICENSE
+¦       ¦       ¦   package.json
+¦       ¦       ¦   README.md
+¦       ¦       ¦   
+¦       ¦       +---dist
+¦       ¦       ¦   ¦   cli.cjs
+¦       ¦       ¦   ¦   cli.mjs
+¦       ¦       ¦   ¦   client-D3mGB526.cjs
+¦       ¦       ¦   ¦   client-D_mPDF5S.mjs
+¦       ¦       ¦   ¦   get-pipe-path-D4YM6rQt.cjs
+¦       ¦       ¦   ¦   get-pipe-path-_tAJyU_v.mjs
+¦       ¦       ¦   ¦   index-BWFBUo6r.cjs
+¦       ¦       ¦   ¦   index-D9F1FXzN.cjs
+¦       ¦       ¦   ¦   index-gbaejti9.mjs
+¦       ¦       ¦   ¦   index-XurvG3JN.mjs
+¦       ¦       ¦   ¦   lexer-DgIbo0BU.cjs
+¦       ¦       ¦   ¦   lexer-DQCqS3nf.mjs
+¦       ¦       ¦   ¦   loader.cjs
+¦       ¦       ¦   ¦   loader.mjs
+¦       ¦       ¦   ¦   node-features-B9BBLzwu.mjs
+¦       ¦       ¦   ¦   node-features-CQLdkVE6.cjs
+¦       ¦       ¦   ¦   package-BgaOhdqD.mjs
+¦       ¦       ¦   ¦   package-BqwdNe35.cjs
+¦       ¦       ¦   ¦   patch-repl.cjs
+¦       ¦       ¦   ¦   patch-repl.mjs
+¦       ¦       ¦   ¦   preflight.cjs
+¦       ¦       ¦   ¦   preflight.mjs
+¦       ¦       ¦   ¦   register-BLKDwPDF.mjs
+¦       ¦       ¦   ¦   register-BLUABhh3.cjs
+¦       ¦       ¦   ¦   register-CN6UEFH9.cjs
+¦       ¦       ¦   ¦   register-D5KIhaFJ.mjs
+¦       ¦       ¦   ¦   repl.cjs
+¦       ¦       ¦   ¦   repl.mjs
+¦       ¦       ¦   ¦   require-DVoFfmDN.cjs
+¦       ¦       ¦   ¦   require-l-oOTCoT.mjs
+¦       ¦       ¦   ¦   suppress-warnings.cjs
+¦       ¦       ¦   ¦   suppress-warnings.mjs
+¦       ¦       ¦   ¦   temporary-directory-B83uKxJF.cjs
+¦       ¦       ¦   ¦   temporary-directory-BDDVQOvU.mjs
+¦       ¦       ¦   ¦   types-Cxp8y2TL.d.ts
+¦       ¦       ¦   ¦   
+¦       ¦       ¦   +---cjs
+¦       ¦       ¦   ¦   ¦   index.cjs
+¦       ¦       ¦   ¦   ¦   index.mjs
+¦       ¦       ¦   ¦   ¦   
+¦       ¦       ¦   ¦   +---api
+¦       ¦       ¦   ¦           index.cjs
+¦       ¦       ¦   ¦           index.d.cts
+¦       ¦       ¦   ¦           index.d.mts
+¦       ¦       ¦   ¦           index.mjs
+¦       ¦       ¦   ¦           
+¦       ¦       ¦   +---esm
+¦       ¦       ¦       ¦   index.cjs
+¦       ¦       ¦       ¦   index.mjs
+¦       ¦       ¦       ¦   
+¦       ¦       ¦       +---api
+¦       ¦       ¦               index.cjs
+¦       ¦       ¦               index.d.cts
+¦       ¦       ¦               index.d.mts
+¦       ¦       ¦               index.mjs
+¦       ¦       ¦               
+¦       ¦       +---node_modules
+¦       ¦           +---.bin
+¦       ¦                   esbuild
+¦       ¦                   esbuild.CMD
+¦       ¦                   esbuild.ps1
+¦       ¦                   tsx
+¦       ¦                   tsx.CMD
+¦       ¦                   tsx.ps1
+¦       ¦                   
+¦       +---src
+¦               index.ts
+¦               
++---docs
++---examples
++---node_modules
+¦   ¦   .modules.yaml
+¦   ¦   .package-map.json
+¦   ¦   .pnpm-workspace-state-v1.json
+¦   ¦   
+¦   +---.bin
+¦   ¦       tsc
+¦   ¦       tsc.CMD
+¦   ¦       tsc.ps1
+¦   ¦       tsserver
+¦   ¦       tsserver.CMD
+¦   ¦       tsserver.ps1
+¦   ¦       turbo
+¦   ¦       turbo.CMD
+¦   ¦       turbo.ps1
+¦   ¦       
+¦   +---.pnpm
+¦   ¦   ¦   lock.yaml
+¦   ¦   ¦   
+¦   ¦   +---@esbuild+win32-x64@0.28.1
+¦   ¦   ¦   +---node_modules
+¦   ¦   ¦       +---@esbuild
+¦   ¦   ¦           +---win32-x64
+¦   ¦   ¦                   esbuild.exe
+¦   ¦   ¦                   package.json
+¦   ¦   ¦                   README.md
+¦   ¦   ¦                   
+¦   ¦   +---@turbo+windows-64@2.10.3
+¦   ¦   ¦   +---node_modules
+¦   ¦   ¦       +---@turbo
+¦   ¦   ¦           +---windows-64
+¦   ¦   ¦               ¦   LICENSE
+¦   ¦   ¦               ¦   package.json
+¦   ¦   ¦               ¦   README.md
+¦   ¦   ¦               ¦   
+¦   ¦   ¦               +---bin
+¦   ¦   ¦                       turbo
+¦   ¦   ¦                       turbo.exe
+¦   ¦   ¦                       
+¦   ¦   +---esbuild@0.28.1
+¦   ¦   ¦   +---node_modules
+¦   ¦   ¦       +---@esbuild
+¦   ¦   ¦       ¦   +---win32-x64
+¦   ¦   ¦       ¦           esbuild.exe
+¦   ¦   ¦       ¦           package.json
+¦   ¦   ¦       ¦           README.md
+¦   ¦   ¦       ¦           
+¦   ¦   ¦       +---esbuild
+¦   ¦   ¦           ¦   install.js
+¦   ¦   ¦           ¦   LICENSE.md
+¦   ¦   ¦           ¦   package.json
+¦   ¦   ¦           ¦   README.md
+¦   ¦   ¦           ¦   
+¦   ¦   ¦           +---bin
+¦   ¦   ¦           ¦       esbuild
+¦   ¦   ¦           ¦       
+¦   ¦   ¦           +---lib
+¦   ¦   ¦           ¦       main.d.ts
+¦   ¦   ¦           ¦       main.js
+¦   ¦   ¦           ¦       
+¦   ¦   ¦           +---node_modules
+¦   ¦   ¦               +---.bin
+¦   ¦   ¦                       esbuild
+¦   ¦   ¦                       esbuild.CMD
+¦   ¦   ¦                       esbuild.ps1
+¦   ¦   ¦                       
+¦   ¦   +---node_modules
+¦   ¦   ¦   +---.bin
+¦   ¦   ¦   ¦       esbuild
+¦   ¦   ¦   ¦       esbuild.CMD
+¦   ¦   ¦   ¦       esbuild.ps1
+¦   ¦   ¦   ¦       tsx
+¦   ¦   ¦   ¦       tsx.CMD
+¦   ¦   ¦   ¦       tsx.ps1
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---@esbuild
+¦   ¦   ¦   ¦   +---win32-x64
+¦   ¦   ¦   ¦           esbuild.exe
+¦   ¦   ¦   ¦           package.json
+¦   ¦   ¦   ¦           README.md
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---@labs
+¦   ¦   ¦   ¦   +---cli
+¦   ¦   ¦   ¦       ¦   package.json
+¦   ¦   ¦   ¦       ¦   tsconfig.json
+¦   ¦   ¦   ¦       ¦   
+¦   ¦   ¦   ¦       +---node_modules
+¦   ¦   ¦   ¦       ¦   +---.bin
+¦   ¦   ¦   ¦       ¦   ¦       tsx
+¦   ¦   ¦   ¦       ¦   ¦       tsx.CMD
+¦   ¦   ¦   ¦       ¦   ¦       tsx.ps1
+¦   ¦   ¦   ¦       ¦   ¦       
+¦   ¦   ¦   ¦       ¦   +---tsx
+¦   ¦   ¦   ¦       ¦       ¦   LICENSE
+¦   ¦   ¦   ¦       ¦       ¦   package.json
+¦   ¦   ¦   ¦       ¦       ¦   README.md
+¦   ¦   ¦   ¦       ¦       ¦   
+¦   ¦   ¦   ¦       ¦       +---dist
+¦   ¦   ¦   ¦       ¦       ¦   ¦   cli.cjs
+¦   ¦   ¦   ¦       ¦       ¦   ¦   cli.mjs
+¦   ¦   ¦   ¦       ¦       ¦   ¦   client-D3mGB526.cjs
+¦   ¦   ¦   ¦       ¦       ¦   ¦   client-D_mPDF5S.mjs
+¦   ¦   ¦   ¦       ¦       ¦   ¦   get-pipe-path-D4YM6rQt.cjs
+¦   ¦   ¦   ¦       ¦       ¦   ¦   get-pipe-path-_tAJyU_v.mjs
+¦   ¦   ¦   ¦       ¦       ¦   ¦   index-BWFBUo6r.cjs
+¦   ¦   ¦   ¦       ¦       ¦   ¦   index-D9F1FXzN.cjs
+¦   ¦   ¦   ¦       ¦       ¦   ¦   index-gbaejti9.mjs
+¦   ¦   ¦   ¦       ¦       ¦   ¦   index-XurvG3JN.mjs
+¦   ¦   ¦   ¦       ¦       ¦   ¦   lexer-DgIbo0BU.cjs
+¦   ¦   ¦   ¦       ¦       ¦   ¦   lexer-DQCqS3nf.mjs
+¦   ¦   ¦   ¦       ¦       ¦   ¦   loader.cjs
+¦   ¦   ¦   ¦       ¦       ¦   ¦   loader.mjs
+¦   ¦   ¦   ¦       ¦       ¦   ¦   node-features-B9BBLzwu.mjs
+¦   ¦   ¦   ¦       ¦       ¦   ¦   node-features-CQLdkVE6.cjs
+¦   ¦   ¦   ¦       ¦       ¦   ¦   package-BgaOhdqD.mjs
+¦   ¦   ¦   ¦       ¦       ¦   ¦   package-BqwdNe35.cjs
+¦   ¦   ¦   ¦       ¦       ¦   ¦   patch-repl.cjs
+¦   ¦   ¦   ¦       ¦       ¦   ¦   patch-repl.mjs
+¦   ¦   ¦   ¦       ¦       ¦   ¦   preflight.cjs
+¦   ¦   ¦   ¦       ¦       ¦   ¦   preflight.mjs
+¦   ¦   ¦   ¦       ¦       ¦   ¦   register-BLKDwPDF.mjs
+¦   ¦   ¦   ¦       ¦       ¦   ¦   register-BLUABhh3.cjs
+¦   ¦   ¦   ¦       ¦       ¦   ¦   register-CN6UEFH9.cjs
+¦   ¦   ¦   ¦       ¦       ¦   ¦   register-D5KIhaFJ.mjs
+¦   ¦   ¦   ¦       ¦       ¦   ¦   repl.cjs
+¦   ¦   ¦   ¦       ¦       ¦   ¦   repl.mjs
+¦   ¦   ¦   ¦       ¦       ¦   ¦   require-DVoFfmDN.cjs
+¦   ¦   ¦   ¦       ¦       ¦   ¦   require-l-oOTCoT.mjs
+¦   ¦   ¦   ¦       ¦       ¦   ¦   suppress-warnings.cjs
+¦   ¦   ¦   ¦       ¦       ¦   ¦   suppress-warnings.mjs
+¦   ¦   ¦   ¦       ¦       ¦   ¦   temporary-directory-B83uKxJF.cjs
+¦   ¦   ¦   ¦       ¦       ¦   ¦   temporary-directory-BDDVQOvU.mjs
+¦   ¦   ¦   ¦       ¦       ¦   ¦   types-Cxp8y2TL.d.ts
+¦   ¦   ¦   ¦       ¦       ¦   ¦   
+¦   ¦   ¦   ¦       ¦       ¦   +---cjs
+¦   ¦   ¦   ¦       ¦       ¦   ¦   ¦   index.cjs
+¦   ¦   ¦   ¦       ¦       ¦   ¦   ¦   index.mjs
+¦   ¦   ¦   ¦       ¦       ¦   ¦   ¦   
+¦   ¦   ¦   ¦       ¦       ¦   ¦   +---api
+¦   ¦   ¦   ¦       ¦       ¦   ¦           index.cjs
+¦   ¦   ¦   ¦       ¦       ¦   ¦           index.d.cts
+¦   ¦   ¦   ¦       ¦       ¦   ¦           index.d.mts
+¦   ¦   ¦   ¦       ¦       ¦   ¦           index.mjs
+¦   ¦   ¦   ¦       ¦       ¦   ¦           
+¦   ¦   ¦   ¦       ¦       ¦   +---esm
+¦   ¦   ¦   ¦       ¦       ¦       ¦   index.cjs
+¦   ¦   ¦   ¦       ¦       ¦       ¦   index.mjs
+¦   ¦   ¦   ¦       ¦       ¦       ¦   
+¦   ¦   ¦   ¦       ¦       ¦       +---api
+¦   ¦   ¦   ¦       ¦       ¦               index.cjs
+¦   ¦   ¦   ¦       ¦       ¦               index.d.cts
+¦   ¦   ¦   ¦       ¦       ¦               index.d.mts
+¦   ¦   ¦   ¦       ¦       ¦               index.mjs
+¦   ¦   ¦   ¦       ¦       ¦               
+¦   ¦   ¦   ¦       ¦       +---node_modules
+¦   ¦   ¦   ¦       ¦           +---.bin
+¦   ¦   ¦   ¦       ¦                   esbuild
+¦   ¦   ¦   ¦       ¦                   esbuild.CMD
+¦   ¦   ¦   ¦       ¦                   esbuild.ps1
+¦   ¦   ¦   ¦       ¦                   tsx
+¦   ¦   ¦   ¦       ¦                   tsx.CMD
+¦   ¦   ¦   ¦       ¦                   tsx.ps1
+¦   ¦   ¦   ¦       ¦                   
+¦   ¦   ¦   ¦       +---src
+¦   ¦   ¦   ¦               index.ts
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---@turbo
+¦   ¦   ¦   ¦   +---windows-64
+¦   ¦   ¦   ¦       ¦   LICENSE
+¦   ¦   ¦   ¦       ¦   package.json
+¦   ¦   ¦   ¦       ¦   README.md
+¦   ¦   ¦   ¦       ¦   
+¦   ¦   ¦   ¦       +---bin
+¦   ¦   ¦   ¦               turbo
+¦   ¦   ¦   ¦               turbo.exe
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---esbuild
+¦   ¦   ¦   ¦   ¦   install.js
+¦   ¦   ¦   ¦   ¦   LICENSE.md
+¦   ¦   ¦   ¦   ¦   package.json
+¦   ¦   ¦   ¦   ¦   README.md
+¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   +---bin
+¦   ¦   ¦   ¦   ¦       esbuild
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---lib
+¦   ¦   ¦   ¦   ¦       main.d.ts
+¦   ¦   ¦   ¦   ¦       main.js
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---node_modules
+¦   ¦   ¦   ¦       +---.bin
+¦   ¦   ¦   ¦               esbuild
+¦   ¦   ¦   ¦               esbuild.CMD
+¦   ¦   ¦   ¦               esbuild.ps1
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---tsx
+¦   ¦   ¦       ¦   LICENSE
+¦   ¦   ¦       ¦   package.json
+¦   ¦   ¦       ¦   README.md
+¦   ¦   ¦       ¦   
+¦   ¦   ¦       +---dist
+¦   ¦   ¦       ¦   ¦   cli.cjs
+¦   ¦   ¦       ¦   ¦   cli.mjs
+¦   ¦   ¦       ¦   ¦   client-D3mGB526.cjs
+¦   ¦   ¦       ¦   ¦   client-D_mPDF5S.mjs
+¦   ¦   ¦       ¦   ¦   get-pipe-path-D4YM6rQt.cjs
+¦   ¦   ¦       ¦   ¦   get-pipe-path-_tAJyU_v.mjs
+¦   ¦   ¦       ¦   ¦   index-BWFBUo6r.cjs
+¦   ¦   ¦       ¦   ¦   index-D9F1FXzN.cjs
+¦   ¦   ¦       ¦   ¦   index-gbaejti9.mjs
+¦   ¦   ¦       ¦   ¦   index-XurvG3JN.mjs
+¦   ¦   ¦       ¦   ¦   lexer-DgIbo0BU.cjs
+¦   ¦   ¦       ¦   ¦   lexer-DQCqS3nf.mjs
+¦   ¦   ¦       ¦   ¦   loader.cjs
+¦   ¦   ¦       ¦   ¦   loader.mjs
+¦   ¦   ¦       ¦   ¦   node-features-B9BBLzwu.mjs
+¦   ¦   ¦       ¦   ¦   node-features-CQLdkVE6.cjs
+¦   ¦   ¦       ¦   ¦   package-BgaOhdqD.mjs
+¦   ¦   ¦       ¦   ¦   package-BqwdNe35.cjs
+¦   ¦   ¦       ¦   ¦   patch-repl.cjs
+¦   ¦   ¦       ¦   ¦   patch-repl.mjs
+¦   ¦   ¦       ¦   ¦   preflight.cjs
+¦   ¦   ¦       ¦   ¦   preflight.mjs
+¦   ¦   ¦       ¦   ¦   register-BLKDwPDF.mjs
+¦   ¦   ¦       ¦   ¦   register-BLUABhh3.cjs
+¦   ¦   ¦       ¦   ¦   register-CN6UEFH9.cjs
+¦   ¦   ¦       ¦   ¦   register-D5KIhaFJ.mjs
+¦   ¦   ¦       ¦   ¦   repl.cjs
+¦   ¦   ¦       ¦   ¦   repl.mjs
+¦   ¦   ¦       ¦   ¦   require-DVoFfmDN.cjs
+¦   ¦   ¦       ¦   ¦   require-l-oOTCoT.mjs
+¦   ¦   ¦       ¦   ¦   suppress-warnings.cjs
+¦   ¦   ¦       ¦   ¦   suppress-warnings.mjs
+¦   ¦   ¦       ¦   ¦   temporary-directory-B83uKxJF.cjs
+¦   ¦   ¦       ¦   ¦   temporary-directory-BDDVQOvU.mjs
+¦   ¦   ¦       ¦   ¦   types-Cxp8y2TL.d.ts
+¦   ¦   ¦       ¦   ¦   
+¦   ¦   ¦       ¦   +---cjs
+¦   ¦   ¦       ¦   ¦   ¦   index.cjs
+¦   ¦   ¦       ¦   ¦   ¦   index.mjs
+¦   ¦   ¦       ¦   ¦   ¦   
+¦   ¦   ¦       ¦   ¦   +---api
+¦   ¦   ¦       ¦   ¦           index.cjs
+¦   ¦   ¦       ¦   ¦           index.d.cts
+¦   ¦   ¦       ¦   ¦           index.d.mts
+¦   ¦   ¦       ¦   ¦           index.mjs
+¦   ¦   ¦       ¦   ¦           
+¦   ¦   ¦       ¦   +---esm
+¦   ¦   ¦       ¦       ¦   index.cjs
+¦   ¦   ¦       ¦       ¦   index.mjs
+¦   ¦   ¦       ¦       ¦   
+¦   ¦   ¦       ¦       +---api
+¦   ¦   ¦       ¦               index.cjs
+¦   ¦   ¦       ¦               index.d.cts
+¦   ¦   ¦       ¦               index.d.mts
+¦   ¦   ¦       ¦               index.mjs
+¦   ¦   ¦       ¦               
+¦   ¦   ¦       +---node_modules
+¦   ¦   ¦           +---.bin
+¦   ¦   ¦                   esbuild
+¦   ¦   ¦                   esbuild.CMD
+¦   ¦   ¦                   esbuild.ps1
+¦   ¦   ¦                   tsx
+¦   ¦   ¦                   tsx.CMD
+¦   ¦   ¦                   tsx.ps1
+¦   ¦   ¦                   
+¦   ¦   +---tsx@4.23.0
+¦   ¦   ¦   +---node_modules
+¦   ¦   ¦       +---esbuild
+¦   ¦   ¦       ¦   ¦   install.js
+¦   ¦   ¦       ¦   ¦   LICENSE.md
+¦   ¦   ¦       ¦   ¦   package.json
+¦   ¦   ¦       ¦   ¦   README.md
+¦   ¦   ¦       ¦   ¦   
+¦   ¦   ¦       ¦   +---bin
+¦   ¦   ¦       ¦   ¦       esbuild
+¦   ¦   ¦       ¦   ¦       
+¦   ¦   ¦       ¦   +---lib
+¦   ¦   ¦       ¦   ¦       main.d.ts
+¦   ¦   ¦       ¦   ¦       main.js
+¦   ¦   ¦       ¦   ¦       
+¦   ¦   ¦       ¦   +---node_modules
+¦   ¦   ¦       ¦       +---.bin
+¦   ¦   ¦       ¦               esbuild
+¦   ¦   ¦       ¦               esbuild.CMD
+¦   ¦   ¦       ¦               esbuild.ps1
+¦   ¦   ¦       ¦               
+¦   ¦   ¦       +---tsx
+¦   ¦   ¦           ¦   LICENSE
+¦   ¦   ¦           ¦   package.json
+¦   ¦   ¦           ¦   README.md
+¦   ¦   ¦           ¦   
+¦   ¦   ¦           +---dist
+¦   ¦   ¦           ¦   ¦   cli.cjs
+¦   ¦   ¦           ¦   ¦   cli.mjs
+¦   ¦   ¦           ¦   ¦   client-D3mGB526.cjs
+¦   ¦   ¦           ¦   ¦   client-D_mPDF5S.mjs
+¦   ¦   ¦           ¦   ¦   get-pipe-path-D4YM6rQt.cjs
+¦   ¦   ¦           ¦   ¦   get-pipe-path-_tAJyU_v.mjs
+¦   ¦   ¦           ¦   ¦   index-BWFBUo6r.cjs
+¦   ¦   ¦           ¦   ¦   index-D9F1FXzN.cjs
+¦   ¦   ¦           ¦   ¦   index-gbaejti9.mjs
+¦   ¦   ¦           ¦   ¦   index-XurvG3JN.mjs
+¦   ¦   ¦           ¦   ¦   lexer-DgIbo0BU.cjs
+¦   ¦   ¦           ¦   ¦   lexer-DQCqS3nf.mjs
+¦   ¦   ¦           ¦   ¦   loader.cjs
+¦   ¦   ¦           ¦   ¦   loader.mjs
+¦   ¦   ¦           ¦   ¦   node-features-B9BBLzwu.mjs
+¦   ¦   ¦           ¦   ¦   node-features-CQLdkVE6.cjs
+¦   ¦   ¦           ¦   ¦   package-BgaOhdqD.mjs
+¦   ¦   ¦           ¦   ¦   package-BqwdNe35.cjs
+¦   ¦   ¦           ¦   ¦   patch-repl.cjs
+¦   ¦   ¦           ¦   ¦   patch-repl.mjs
+¦   ¦   ¦           ¦   ¦   preflight.cjs
+¦   ¦   ¦           ¦   ¦   preflight.mjs
+¦   ¦   ¦           ¦   ¦   register-BLKDwPDF.mjs
+¦   ¦   ¦           ¦   ¦   register-BLUABhh3.cjs
+¦   ¦   ¦           ¦   ¦   register-CN6UEFH9.cjs
+¦   ¦   ¦           ¦   ¦   register-D5KIhaFJ.mjs
+¦   ¦   ¦           ¦   ¦   repl.cjs
+¦   ¦   ¦           ¦   ¦   repl.mjs
+¦   ¦   ¦           ¦   ¦   require-DVoFfmDN.cjs
+¦   ¦   ¦           ¦   ¦   require-l-oOTCoT.mjs
+¦   ¦   ¦           ¦   ¦   suppress-warnings.cjs
+¦   ¦   ¦           ¦   ¦   suppress-warnings.mjs
+¦   ¦   ¦           ¦   ¦   temporary-directory-B83uKxJF.cjs
+¦   ¦   ¦           ¦   ¦   temporary-directory-BDDVQOvU.mjs
+¦   ¦   ¦           ¦   ¦   types-Cxp8y2TL.d.ts
+¦   ¦   ¦           ¦   ¦   
+¦   ¦   ¦           ¦   +---cjs
+¦   ¦   ¦           ¦   ¦   ¦   index.cjs
+¦   ¦   ¦           ¦   ¦   ¦   index.mjs
+¦   ¦   ¦           ¦   ¦   ¦   
+¦   ¦   ¦           ¦   ¦   +---api
+¦   ¦   ¦           ¦   ¦           index.cjs
+¦   ¦   ¦           ¦   ¦           index.d.cts
+¦   ¦   ¦           ¦   ¦           index.d.mts
+¦   ¦   ¦           ¦   ¦           index.mjs
+¦   ¦   ¦           ¦   ¦           
+¦   ¦   ¦           ¦   +---esm
+¦   ¦   ¦           ¦       ¦   index.cjs
+¦   ¦   ¦           ¦       ¦   index.mjs
+¦   ¦   ¦           ¦       ¦   
+¦   ¦   ¦           ¦       +---api
+¦   ¦   ¦           ¦               index.cjs
+¦   ¦   ¦           ¦               index.d.cts
+¦   ¦   ¦           ¦               index.d.mts
+¦   ¦   ¦           ¦               index.mjs
+¦   ¦   ¦           ¦               
+¦   ¦   ¦           +---node_modules
+¦   ¦   ¦               +---.bin
+¦   ¦   ¦                       esbuild
+¦   ¦   ¦                       esbuild.CMD
+¦   ¦   ¦                       esbuild.ps1
+¦   ¦   ¦                       tsx
+¦   ¦   ¦                       tsx.CMD
+¦   ¦   ¦                       tsx.ps1
+¦   ¦   ¦                       
+¦   ¦   +---turbo@2.10.3
+¦   ¦   ¦   +---node_modules
+¦   ¦   ¦       +---@turbo
+¦   ¦   ¦       ¦   +---windows-64
+¦   ¦   ¦       ¦       ¦   LICENSE
+¦   ¦   ¦       ¦       ¦   package.json
+¦   ¦   ¦       ¦       ¦   README.md
+¦   ¦   ¦       ¦       ¦   
+¦   ¦   ¦       ¦       +---bin
+¦   ¦   ¦       ¦               turbo
+¦   ¦   ¦       ¦               turbo.exe
+¦   ¦   ¦       ¦               
+¦   ¦   ¦       +---turbo
+¦   ¦   ¦           ¦   LICENSE
+¦   ¦   ¦           ¦   package.json
+¦   ¦   ¦           ¦   README.md
+¦   ¦   ¦           ¦   schema.json
+¦   ¦   ¦           ¦   
+¦   ¦   ¦           +---bin
+¦   ¦   ¦           ¦       turbo
+¦   ¦   ¦           ¦       
+¦   ¦   ¦           +---node_modules
+¦   ¦   ¦               +---.bin
+¦   ¦   ¦                       turbo
+¦   ¦   ¦                       turbo.CMD
+¦   ¦   ¦                       turbo.ps1
+¦   ¦   ¦                       
+¦   ¦   +---typescript@5.9.3
+¦   ¦       +---node_modules
+¦   ¦           +---typescript
+¦   ¦               ¦   LICENSE.txt
+¦   ¦               ¦   package.json
+¦   ¦               ¦   README.md
+¦   ¦               ¦   SECURITY.md
+¦   ¦               ¦   ThirdPartyNoticeText.txt
+¦   ¦               ¦   
+¦   ¦               +---bin
+¦   ¦               ¦       tsc
+¦   ¦               ¦       tsserver
+¦   ¦               ¦       
+¦   ¦               +---lib
+¦   ¦               ¦   ¦   lib.d.ts
+¦   ¦               ¦   ¦   lib.decorators.d.ts
+¦   ¦               ¦   ¦   lib.decorators.legacy.d.ts
+¦   ¦               ¦   ¦   lib.dom.asynciterable.d.ts
+¦   ¦               ¦   ¦   lib.dom.d.ts
+¦   ¦               ¦   ¦   lib.dom.iterable.d.ts
+¦   ¦               ¦   ¦   lib.es2015.collection.d.ts
+¦   ¦               ¦   ¦   lib.es2015.core.d.ts
+¦   ¦               ¦   ¦   lib.es2015.d.ts
+¦   ¦               ¦   ¦   lib.es2015.generator.d.ts
+¦   ¦               ¦   ¦   lib.es2015.iterable.d.ts
+¦   ¦               ¦   ¦   lib.es2015.promise.d.ts
+¦   ¦               ¦   ¦   lib.es2015.proxy.d.ts
+¦   ¦               ¦   ¦   lib.es2015.reflect.d.ts
+¦   ¦               ¦   ¦   lib.es2015.symbol.d.ts
+¦   ¦               ¦   ¦   lib.es2015.symbol.wellknown.d.ts
+¦   ¦               ¦   ¦   lib.es2016.array.include.d.ts
+¦   ¦               ¦   ¦   lib.es2016.d.ts
+¦   ¦               ¦   ¦   lib.es2016.full.d.ts
+¦   ¦               ¦   ¦   lib.es2016.intl.d.ts
+¦   ¦               ¦   ¦   lib.es2017.arraybuffer.d.ts
+¦   ¦               ¦   ¦   lib.es2017.d.ts
+¦   ¦               ¦   ¦   lib.es2017.date.d.ts
+¦   ¦               ¦   ¦   lib.es2017.full.d.ts
+¦   ¦               ¦   ¦   lib.es2017.intl.d.ts
+¦   ¦               ¦   ¦   lib.es2017.object.d.ts
+¦   ¦               ¦   ¦   lib.es2017.sharedmemory.d.ts
+¦   ¦               ¦   ¦   lib.es2017.string.d.ts
+¦   ¦               ¦   ¦   lib.es2017.typedarrays.d.ts
+¦   ¦               ¦   ¦   lib.es2018.asyncgenerator.d.ts
+¦   ¦               ¦   ¦   lib.es2018.asynciterable.d.ts
+¦   ¦               ¦   ¦   lib.es2018.d.ts
+¦   ¦               ¦   ¦   lib.es2018.full.d.ts
+¦   ¦               ¦   ¦   lib.es2018.intl.d.ts
+¦   ¦               ¦   ¦   lib.es2018.promise.d.ts
+¦   ¦               ¦   ¦   lib.es2018.regexp.d.ts
+¦   ¦               ¦   ¦   lib.es2019.array.d.ts
+¦   ¦               ¦   ¦   lib.es2019.d.ts
+¦   ¦               ¦   ¦   lib.es2019.full.d.ts
+¦   ¦               ¦   ¦   lib.es2019.intl.d.ts
+¦   ¦               ¦   ¦   lib.es2019.object.d.ts
+¦   ¦               ¦   ¦   lib.es2019.string.d.ts
+¦   ¦               ¦   ¦   lib.es2019.symbol.d.ts
+¦   ¦               ¦   ¦   lib.es2020.bigint.d.ts
+¦   ¦               ¦   ¦   lib.es2020.d.ts
+¦   ¦               ¦   ¦   lib.es2020.date.d.ts
+¦   ¦               ¦   ¦   lib.es2020.full.d.ts
+¦   ¦               ¦   ¦   lib.es2020.intl.d.ts
+¦   ¦               ¦   ¦   lib.es2020.number.d.ts
+¦   ¦               ¦   ¦   lib.es2020.promise.d.ts
+¦   ¦               ¦   ¦   lib.es2020.sharedmemory.d.ts
+¦   ¦               ¦   ¦   lib.es2020.string.d.ts
+¦   ¦               ¦   ¦   lib.es2020.symbol.wellknown.d.ts
+¦   ¦               ¦   ¦   lib.es2021.d.ts
+¦   ¦               ¦   ¦   lib.es2021.full.d.ts
+¦   ¦               ¦   ¦   lib.es2021.intl.d.ts
+¦   ¦               ¦   ¦   lib.es2021.promise.d.ts
+¦   ¦               ¦   ¦   lib.es2021.string.d.ts
+¦   ¦               ¦   ¦   lib.es2021.weakref.d.ts
+¦   ¦               ¦   ¦   lib.es2022.array.d.ts
+¦   ¦               ¦   ¦   lib.es2022.d.ts
+¦   ¦               ¦   ¦   lib.es2022.error.d.ts
+¦   ¦               ¦   ¦   lib.es2022.full.d.ts
+¦   ¦               ¦   ¦   lib.es2022.intl.d.ts
+¦   ¦               ¦   ¦   lib.es2022.object.d.ts
+¦   ¦               ¦   ¦   lib.es2022.regexp.d.ts
+¦   ¦               ¦   ¦   lib.es2022.string.d.ts
+¦   ¦               ¦   ¦   lib.es2023.array.d.ts
+¦   ¦               ¦   ¦   lib.es2023.collection.d.ts
+¦   ¦               ¦   ¦   lib.es2023.d.ts
+¦   ¦               ¦   ¦   lib.es2023.full.d.ts
+¦   ¦               ¦   ¦   lib.es2023.intl.d.ts
+¦   ¦               ¦   ¦   lib.es2024.arraybuffer.d.ts
+¦   ¦               ¦   ¦   lib.es2024.collection.d.ts
+¦   ¦               ¦   ¦   lib.es2024.d.ts
+¦   ¦               ¦   ¦   lib.es2024.full.d.ts
+¦   ¦               ¦   ¦   lib.es2024.object.d.ts
+¦   ¦               ¦   ¦   lib.es2024.promise.d.ts
+¦   ¦               ¦   ¦   lib.es2024.regexp.d.ts
+¦   ¦               ¦   ¦   lib.es2024.sharedmemory.d.ts
+¦   ¦               ¦   ¦   lib.es2024.string.d.ts
+¦   ¦               ¦   ¦   lib.es5.d.ts
+¦   ¦               ¦   ¦   lib.es6.d.ts
+¦   ¦               ¦   ¦   lib.esnext.array.d.ts
+¦   ¦               ¦   ¦   lib.esnext.collection.d.ts
+¦   ¦               ¦   ¦   lib.esnext.d.ts
+¦   ¦               ¦   ¦   lib.esnext.decorators.d.ts
+¦   ¦               ¦   ¦   lib.esnext.disposable.d.ts
+¦   ¦               ¦   ¦   lib.esnext.error.d.ts
+¦   ¦               ¦   ¦   lib.esnext.float16.d.ts
+¦   ¦               ¦   ¦   lib.esnext.full.d.ts
+¦   ¦               ¦   ¦   lib.esnext.intl.d.ts
+¦   ¦               ¦   ¦   lib.esnext.iterator.d.ts
+¦   ¦               ¦   ¦   lib.esnext.promise.d.ts
+¦   ¦               ¦   ¦   lib.esnext.sharedmemory.d.ts
+¦   ¦               ¦   ¦   lib.scripthost.d.ts
+¦   ¦               ¦   ¦   lib.webworker.asynciterable.d.ts
+¦   ¦               ¦   ¦   lib.webworker.d.ts
+¦   ¦               ¦   ¦   lib.webworker.importscripts.d.ts
+¦   ¦               ¦   ¦   lib.webworker.iterable.d.ts
+¦   ¦               ¦   ¦   tsc.js
+¦   ¦               ¦   ¦   tsserver.js
+¦   ¦               ¦   ¦   tsserverlibrary.d.ts
+¦   ¦               ¦   ¦   tsserverlibrary.js
+¦   ¦               ¦   ¦   typescript.d.ts
+¦   ¦               ¦   ¦   typescript.js
+¦   ¦               ¦   ¦   typesMap.json
+¦   ¦               ¦   ¦   typingsInstaller.js
+¦   ¦               ¦   ¦   watchGuard.js
+¦   ¦               ¦   ¦   _tsc.js
+¦   ¦               ¦   ¦   _tsserver.js
+¦   ¦               ¦   ¦   _typingsInstaller.js
+¦   ¦               ¦   ¦   
+¦   ¦               ¦   +---cs
+¦   ¦               ¦   ¦       diagnosticMessages.generated.json
+¦   ¦               ¦   ¦       
+¦   ¦               ¦   +---de
+¦   ¦               ¦   ¦       diagnosticMessages.generated.json
+¦   ¦               ¦   ¦       
+¦   ¦               ¦   +---es
+¦   ¦               ¦   ¦       diagnosticMessages.generated.json
+¦   ¦               ¦   ¦       
+¦   ¦               ¦   +---fr
+¦   ¦               ¦   ¦       diagnosticMessages.generated.json
+¦   ¦               ¦   ¦       
+¦   ¦               ¦   +---it
+¦   ¦               ¦   ¦       diagnosticMessages.generated.json
+¦   ¦               ¦   ¦       
+¦   ¦               ¦   +---ja
+¦   ¦               ¦   ¦       diagnosticMessages.generated.json
+¦   ¦               ¦   ¦       
+¦   ¦               ¦   +---ko
+¦   ¦               ¦   ¦       diagnosticMessages.generated.json
+¦   ¦               ¦   ¦       
+¦   ¦               ¦   +---pl
+¦   ¦               ¦   ¦       diagnosticMessages.generated.json
+¦   ¦               ¦   ¦       
+¦   ¦               ¦   +---pt-br
+¦   ¦               ¦   ¦       diagnosticMessages.generated.json
+¦   ¦               ¦   ¦       
+¦   ¦               ¦   +---ru
+¦   ¦               ¦   ¦       diagnosticMessages.generated.json
+¦   ¦               ¦   ¦       
+¦   ¦               ¦   +---tr
+¦   ¦               ¦   ¦       diagnosticMessages.generated.json
+¦   ¦               ¦   ¦       
+¦   ¦               ¦   +---zh-cn
+¦   ¦               ¦   ¦       diagnosticMessages.generated.json
+¦   ¦               ¦   ¦       
+¦   ¦               ¦   +---zh-tw
+¦   ¦               ¦           diagnosticMessages.generated.json
+¦   ¦               ¦           
+¦   ¦               +---node_modules
+¦   ¦                   +---.bin
+¦   ¦                           tsc
+¦   ¦                           tsc.CMD
+¦   ¦                           tsc.ps1
+¦   ¦                           tsserver
+¦   ¦                           tsserver.CMD
+¦   ¦                           tsserver.ps1
+¦   ¦                           
+¦   +---turbo
+¦   ¦   ¦   LICENSE
+¦   ¦   ¦   package.json
+¦   ¦   ¦   README.md
+¦   ¦   ¦   schema.json
+¦   ¦   ¦   
+¦   ¦   +---bin
+¦   ¦   ¦       turbo
+¦   ¦   ¦       
+¦   ¦   +---node_modules
+¦   ¦       +---.bin
+¦   ¦               turbo
+¦   ¦               turbo.CMD
+¦   ¦               turbo.ps1
+¦   ¦               
+¦   +---typescript
+¦       ¦   LICENSE.txt
+¦       ¦   package.json
+¦       ¦   README.md
+¦       ¦   SECURITY.md
+¦       ¦   ThirdPartyNoticeText.txt
+¦       ¦   
+¦       +---bin
+¦       ¦       tsc
+¦       ¦       tsserver
+¦       ¦       
+¦       +---lib
+¦       ¦   ¦   lib.d.ts
+¦       ¦   ¦   lib.decorators.d.ts
+¦       ¦   ¦   lib.decorators.legacy.d.ts
+¦       ¦   ¦   lib.dom.asynciterable.d.ts
+¦       ¦   ¦   lib.dom.d.ts
+¦       ¦   ¦   lib.dom.iterable.d.ts
+¦       ¦   ¦   lib.es2015.collection.d.ts
+¦       ¦   ¦   lib.es2015.core.d.ts
+¦       ¦   ¦   lib.es2015.d.ts
+¦       ¦   ¦   lib.es2015.generator.d.ts
+¦       ¦   ¦   lib.es2015.iterable.d.ts
+¦       ¦   ¦   lib.es2015.promise.d.ts
+¦       ¦   ¦   lib.es2015.proxy.d.ts
+¦       ¦   ¦   lib.es2015.reflect.d.ts
+¦       ¦   ¦   lib.es2015.symbol.d.ts
+¦       ¦   ¦   lib.es2015.symbol.wellknown.d.ts
+¦       ¦   ¦   lib.es2016.array.include.d.ts
+¦       ¦   ¦   lib.es2016.d.ts
+¦       ¦   ¦   lib.es2016.full.d.ts
+¦       ¦   ¦   lib.es2016.intl.d.ts
+¦       ¦   ¦   lib.es2017.arraybuffer.d.ts
+¦       ¦   ¦   lib.es2017.d.ts
+¦       ¦   ¦   lib.es2017.date.d.ts
+¦       ¦   ¦   lib.es2017.full.d.ts
+¦       ¦   ¦   lib.es2017.intl.d.ts
+¦       ¦   ¦   lib.es2017.object.d.ts
+¦       ¦   ¦   lib.es2017.sharedmemory.d.ts
+¦       ¦   ¦   lib.es2017.string.d.ts
+¦       ¦   ¦   lib.es2017.typedarrays.d.ts
+¦       ¦   ¦   lib.es2018.asyncgenerator.d.ts
+¦       ¦   ¦   lib.es2018.asynciterable.d.ts
+¦       ¦   ¦   lib.es2018.d.ts
+¦       ¦   ¦   lib.es2018.full.d.ts
+¦       ¦   ¦   lib.es2018.intl.d.ts
+¦       ¦   ¦   lib.es2018.promise.d.ts
+¦       ¦   ¦   lib.es2018.regexp.d.ts
+¦       ¦   ¦   lib.es2019.array.d.ts
+¦       ¦   ¦   lib.es2019.d.ts
+¦       ¦   ¦   lib.es2019.full.d.ts
+¦       ¦   ¦   lib.es2019.intl.d.ts
+¦       ¦   ¦   lib.es2019.object.d.ts
+¦       ¦   ¦   lib.es2019.string.d.ts
+¦       ¦   ¦   lib.es2019.symbol.d.ts
+¦       ¦   ¦   lib.es2020.bigint.d.ts
+¦       ¦   ¦   lib.es2020.d.ts
+¦       ¦   ¦   lib.es2020.date.d.ts
+¦       ¦   ¦   lib.es2020.full.d.ts
+¦       ¦   ¦   lib.es2020.intl.d.ts
+¦       ¦   ¦   lib.es2020.number.d.ts
+¦       ¦   ¦   lib.es2020.promise.d.ts
+¦       ¦   ¦   lib.es2020.sharedmemory.d.ts
+¦       ¦   ¦   lib.es2020.string.d.ts
+¦       ¦   ¦   lib.es2020.symbol.wellknown.d.ts
+¦       ¦   ¦   lib.es2021.d.ts
+¦       ¦   ¦   lib.es2021.full.d.ts
+¦       ¦   ¦   lib.es2021.intl.d.ts
+¦       ¦   ¦   lib.es2021.promise.d.ts
+¦       ¦   ¦   lib.es2021.string.d.ts
+¦       ¦   ¦   lib.es2021.weakref.d.ts
+¦       ¦   ¦   lib.es2022.array.d.ts
+¦       ¦   ¦   lib.es2022.d.ts
+¦       ¦   ¦   lib.es2022.error.d.ts
+¦       ¦   ¦   lib.es2022.full.d.ts
+¦       ¦   ¦   lib.es2022.intl.d.ts
+¦       ¦   ¦   lib.es2022.object.d.ts
+¦       ¦   ¦   lib.es2022.regexp.d.ts
+¦       ¦   ¦   lib.es2022.string.d.ts
+¦       ¦   ¦   lib.es2023.array.d.ts
+¦       ¦   ¦   lib.es2023.collection.d.ts
+¦       ¦   ¦   lib.es2023.d.ts
+¦       ¦   ¦   lib.es2023.full.d.ts
+¦       ¦   ¦   lib.es2023.intl.d.ts
+¦       ¦   ¦   lib.es2024.arraybuffer.d.ts
+¦       ¦   ¦   lib.es2024.collection.d.ts
+¦       ¦   ¦   lib.es2024.d.ts
+¦       ¦   ¦   lib.es2024.full.d.ts
+¦       ¦   ¦   lib.es2024.object.d.ts
+¦       ¦   ¦   lib.es2024.promise.d.ts
+¦       ¦   ¦   lib.es2024.regexp.d.ts
+¦       ¦   ¦   lib.es2024.sharedmemory.d.ts
+¦       ¦   ¦   lib.es2024.string.d.ts
+¦       ¦   ¦   lib.es5.d.ts
+¦       ¦   ¦   lib.es6.d.ts
+¦       ¦   ¦   lib.esnext.array.d.ts
+¦       ¦   ¦   lib.esnext.collection.d.ts
+¦       ¦   ¦   lib.esnext.d.ts
+¦       ¦   ¦   lib.esnext.decorators.d.ts
+¦       ¦   ¦   lib.esnext.disposable.d.ts
+¦       ¦   ¦   lib.esnext.error.d.ts
+¦       ¦   ¦   lib.esnext.float16.d.ts
+¦       ¦   ¦   lib.esnext.full.d.ts
+¦       ¦   ¦   lib.esnext.intl.d.ts
+¦       ¦   ¦   lib.esnext.iterator.d.ts
+¦       ¦   ¦   lib.esnext.promise.d.ts
+¦       ¦   ¦   lib.esnext.sharedmemory.d.ts
+¦       ¦   ¦   lib.scripthost.d.ts
+¦       ¦   ¦   lib.webworker.asynciterable.d.ts
+¦       ¦   ¦   lib.webworker.d.ts
+¦       ¦   ¦   lib.webworker.importscripts.d.ts
+¦       ¦   ¦   lib.webworker.iterable.d.ts
+¦       ¦   ¦   tsc.js
+¦       ¦   ¦   tsserver.js
+¦       ¦   ¦   tsserverlibrary.d.ts
+¦       ¦   ¦   tsserverlibrary.js
+¦       ¦   ¦   typescript.d.ts
+¦       ¦   ¦   typescript.js
+¦       ¦   ¦   typesMap.json
+¦       ¦   ¦   typingsInstaller.js
+¦       ¦   ¦   watchGuard.js
+¦       ¦   ¦   _tsc.js
+¦       ¦   ¦   _tsserver.js
+¦       ¦   ¦   _typingsInstaller.js
+¦       ¦   ¦   
+¦       ¦   +---cs
+¦       ¦   ¦       diagnosticMessages.generated.json
+¦       ¦   ¦       
+¦       ¦   +---de
+¦       ¦   ¦       diagnosticMessages.generated.json
+¦       ¦   ¦       
+¦       ¦   +---es
+¦       ¦   ¦       diagnosticMessages.generated.json
+¦       ¦   ¦       
+¦       ¦   +---fr
+¦       ¦   ¦       diagnosticMessages.generated.json
+¦       ¦   ¦       
+¦       ¦   +---it
+¦       ¦   ¦       diagnosticMessages.generated.json
+¦       ¦   ¦       
+¦       ¦   +---ja
+¦       ¦   ¦       diagnosticMessages.generated.json
+¦       ¦   ¦       
+¦       ¦   +---ko
+¦       ¦   ¦       diagnosticMessages.generated.json
+¦       ¦   ¦       
+¦       ¦   +---pl
+¦       ¦   ¦       diagnosticMessages.generated.json
+¦       ¦   ¦       
+¦       ¦   +---pt-br
+¦       ¦   ¦       diagnosticMessages.generated.json
+¦       ¦   ¦       
+¦       ¦   +---ru
+¦       ¦   ¦       diagnosticMessages.generated.json
+¦       ¦   ¦       
+¦       ¦   +---tr
+¦       ¦   ¦       diagnosticMessages.generated.json
+¦       ¦   ¦       
+¦       ¦   +---zh-cn
+¦       ¦   ¦       diagnosticMessages.generated.json
+¦       ¦   ¦       
+¦       ¦   +---zh-tw
+¦       ¦           diagnosticMessages.generated.json
+¦       ¦           
+¦       +---node_modules
+¦           +---.bin
+¦                   tsc
+¦                   tsc.CMD
+¦                   tsc.ps1
+¦                   tsserver
+¦                   tsserver.CMD
+¦                   tsserver.ps1
+¦                   
++---packages
+¦   +---core
+¦   +---engine
+¦   +---shared
++---scripts
++---tooling
