@@ -1,12 +1,23 @@
-import chalk from "chalk";
+import { Command } from "commander";
+import process from "node:process";
+import { logger } from "../services/logger.js";
 
-export function doctor(): void {
-  console.log();
+export function registerDoctorCommand(program: Command) {
+  program
+    .command("doctor")
+    .description("Verifica o ambiente do L.A.B.S.")
+    .action(() => {
 
-  console.log(chalk.green("✔ Ambiente OK"));
-  console.log(`Node     : ${process.version}`);
-  console.log(`Platform : ${process.platform}`);
-  console.log(`Arquitetura: ${process.arch}`);
+      logger.line();
 
-  console.log();
+      logger.title("Diagnóstico do ambiente");
+
+      logger.success("CLI operacional");
+
+      logger.info(`Node     : ${process.version}`);
+      logger.info(`Platform : ${process.platform}`);
+      logger.info(`Arch     : ${process.arch}`);
+
+      logger.line();
+    });
 }

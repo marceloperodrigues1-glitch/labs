@@ -5,6 +5,15 @@
     "moduleResolution": "NodeNext",
     "strict": true,
     "esModuleInterop": true,
-    "skipLibCheck": true
+    "skipLibCheck": true,
+    "baseUrl": ".",
+    "paths": {
+      "@labs/core": [
+        "packages/core/src/index.ts"
+      ],
+      "@labs/shared": [
+        "packages/shared/src/index.ts"
+      ]
+    }
   }
 }

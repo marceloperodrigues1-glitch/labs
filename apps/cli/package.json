@@ -11,11 +11,17 @@
     "dev": "tsx src/index.ts"
   },
   "dependencies": {
+    "@labs/core": "workspace:*",
+    "@labs/shared": "workspace:*",
+    "boxen": "^8.0.1",
     "chalk": "^5.6.2",
-    "commander": "^15.0.0"
+    "commander": "^15.0.0",
+    "gradient-string": "^3.0.0",
+    "ora": "^9.4.1"
   },
   "devDependencies": {
-    "@types/node": "^26.1.0",
-    "tsx": "^4.20.5"
+    "@types/node": "^24.13.2",
+    "tsx": "^4.23.0",
+    "typescript": "^5.9.3"
   }
 }
